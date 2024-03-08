@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupak Biswas</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupak26&label=Profile%20views&color=0e75b6&style=flat" alt="rupak26" /> </p>
 
