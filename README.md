@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJs , ReactJS , NextJS , ExpressJS .**
+- 🔭 I’m currently working on **Python , Django Rest Framework.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 💬 Ask me about **Javascript , react**
+- 💬 Ask me about **Django Rest Framework , Javascript**
 
 - 📫 How to reach me **rupakbiswas29bd@gmail.com**
 
