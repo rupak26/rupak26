@@ -3,7 +3,7 @@
 
 <!-- Animated Banner: Boy Coding -->
 <p align="center">
-  <img src="https://c.tenor.com/QpqIt4U7HLUAAAAC/coding-boy.gif" alt="Boy Coding" width="100%">
+  <img src="https://c.tenor.com/QpqIt4U7HLUAAAAC/coding-boy.gif" alt="Boy Coding" width="1000%">
 </p>
 
 <p align="center">
