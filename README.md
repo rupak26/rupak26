@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupak Biswas</h1>
-<h2 align="center">Full Stack Developer | Python, Django REST, ReactJS</h2>
+<h2 align="center">A Full Stack Developer from Bangladesh</h2>
 
 <!-- Animated Banner: Boy Coding -->
 <p align="center">
