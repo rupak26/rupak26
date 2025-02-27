@@ -95,10 +95,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupak26&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width:100%;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak26&theme=radical" alt="Streak Stats" style="max-width:100%;" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Boy Coding GIF"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rupak26&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak26&theme=radical" alt="GitHub Streak Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupak26&layout=compact&theme=radical" width="500" alt="Most Used Languages"> </p>
