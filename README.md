@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupak Biswas</h1>
 <h2 align="center">Full Stack Developer | Python, Django REST, ReactJS</h2>
 
-<!-- A fun animated banner -->
+<!-- Animated Banner: Boy Coding -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Banner" width="100%">
+  <img src="https://c.tenor.com/QpqIt4U7HLUAAAAC/coding-boy.gif" alt="Boy Coding" width="100%">
 </p>
 
 <p align="center">
@@ -56,4 +56,58 @@
   </a>
   <!-- Android -->
   <a href="https://developer.android.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" style="width:
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- CSS3 -->
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- ReactJS -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width:50px; height:50px; margin:15px;" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupak26&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width:100%;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak26&theme=radical" alt="Streak Stats" style="max-width:100%;" />
+</p>
