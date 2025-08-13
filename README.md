@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupak Biswas</h1>
-<h2 align="center">A Full Stack Developer from Bangladesh</h2>
+<h2 align="center">A Backend Developer from Bangladesh</h2>
 
 <!-- Animated Banner: Boy Coding -->
 <p align="center">
@@ -19,9 +19,9 @@
 
 ## 💻 About Me
 
-- 🔭 I’m currently working on **Python, Django REST Framework, and ReactJS**
+- 🔭 I’m currently working on **Python, Django REST Framework, and GOlang**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Django REST Framework, JavaScript, Python**
+- 💬 Ask me about **Django REST Framework, JavaScript, Python , GOlang**
 - 📫 How to reach me: [rupakbiswas29bd@gmail.com](mailto:rupakbiswas29bd@gmail.com)
 
 ---
@@ -48,6 +48,14 @@
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- Go Logo -->
+  <a href="https://go.dev/" target="_blank">
+    <img src="URL_TO_GO_LOGO" alt="Go" style="width:50px; height:50px; margin:15px;" />
+  </a>
+  <!-- PostgreSQL Logo -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="URL_TO_POSTGRESQL_LOGO" alt="PostgreSQL" style="width:50px; height:50px; margin:15px;" />
   </a>
   <!-- Django REST Framework -->
   <a href="https://www.django-rest-framework.org/" target="_blank">
