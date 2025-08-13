@@ -51,11 +51,11 @@
   </a>
   <!-- Go Logo -->
   <a href="https://go.dev/" target="_blank">
-    <img src="URL_TO_GO_LOGO" alt="Go" style="width:50px; height:50px; margin:15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" style="width:50px; height:50px; margin:15px;" />
   </a>
   <!-- PostgreSQL Logo -->
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="URL_TO_POSTGRESQL_LOGO" alt="PostgreSQL" style="width:50px; height:50px; margin:15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" style="width:50px; height:50px; margin:15px;" />
   </a>
   <!-- Django REST Framework -->
   <a href="https://www.django-rest-framework.org/" target="_blank">
