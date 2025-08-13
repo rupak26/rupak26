@@ -45,6 +45,10 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
+  <!-- Python Logo -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width:50px; height:50px; margin:15px;" />
+  </a>
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" style="width:50px; height:50px; margin:15px;" />
